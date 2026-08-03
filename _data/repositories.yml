@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - https://github.com/ilyassetouazne
+  
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - https://github.com/ilyassetouazne/anomaly_detection_Nashville_Freeway
+  - https://github.com/ilyassetouazne/Statistical-Speech-Recognition-MFCC
+  - https://github.com/ilyassetouazne/NLP-Spam-Detection
+  - https://github.com/ilyassetouazne/sentinel2-fishing-zone-mapping
+  
