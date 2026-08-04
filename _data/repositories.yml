@@ -1,12 +1,10 @@
 github_users:
-  -https://github.com/ilyassetouazne
-  
+  - ilyassetouazne
 
 repo_description_lines_max: 2
 
 github_repos:
--https://github.com/ilyassetouazne/anomaly_detection_Nashville_Freeway
--https://github.com/ilyassetouazne/Statistical-Speech-Recognition-MFCC
--https://github.com/ilyassetouazne/NLP-Spam-Detection
--https://github.com/ilyassetouazne/sentinel2-fishing-zone-mapping
-  
+  - ilyassetouazne/anomaly_detection_Nashville_Freeway
+  - ilyassetouazne/Statistical-Speech-Recognition-MFCC
+  - ilyassetouazne/NLP-Spam-Detection
+  - ilyassetouazne/sentinel2-fishing-zone-mapping
